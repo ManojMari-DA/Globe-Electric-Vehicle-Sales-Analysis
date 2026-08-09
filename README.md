@@ -83,3 +83,5 @@ The main objective of this project is to transform raw EV sales data into meanin
 `MySQL` `Pandas` `Matplotlib` `Seaborn` `Excel` `Power BI` `Data Analysis` `Data Visualization`
 
 
+
+
