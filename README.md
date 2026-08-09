@@ -75,7 +75,7 @@ The processed Excel dataset was loaded into Power BI to create an interactive da
 The main objective of this project is to transform raw EV sales data into meaningful insights using data analysis and visualization techniques, and present the results through an interactive Power BI dashboard.
 
 ## 📂 Dashboard preview
-- ![EV Sales Dashboard](dashboard-preview.png)
+- ![EV Sales Dashboard](dashboard_preview.png)
 
 
 ## 👨‍💻 Skills Demonstrated
